@@ -1,0 +1,45 @@
+body
+{
+  color: white;
+  background: rgb(65, 192, 171);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultGestureName ,#resultGestureName2  
+{
+  color: black;
+}
+.gestureName
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+#webcam, #Prediction1, #Snapshot 
+{
+  background-color: white;
+  color: rgb(19, 189, 19);
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+} 
